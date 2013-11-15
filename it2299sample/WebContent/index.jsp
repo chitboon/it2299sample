@@ -8,7 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello Universe!
-Hello World!
+Hello Someone!
 </body>
 </html>
