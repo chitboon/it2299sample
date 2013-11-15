@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-Hello Someone!
-=======
-Hello Universe!
->>>>>>> refs/remotes/origin/master
+Hello World
 </body>
 </html>
