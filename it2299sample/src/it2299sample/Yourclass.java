@@ -1,8 +1,8 @@
 package it2299sample;
 
-public class Newclass {
+public class Yourclass {
 
-	public Newclass() {
+	public Yourclass() {
 		// TODO Auto-generated constructor stub
 	}
 
